@@ -12,4 +12,4 @@ Server run as:
 
 java Webserver <configuration.xml file>
 
-No extra creadit.
+Web site in site file
