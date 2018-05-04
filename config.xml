@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+
+<!-- WEB SERVER META DATA -->
+<webserver
+    title="Manekineko Server"
+    date="March 2018"
+    author="Tali"
+>
+
+<!-- DEFAULT DOCUMENTS -->
+<!-- macOS style -->
+<context defaultDocument="/Users/nataliepeters/CMPT352/HW/HW4/site/index.html"></context> 
+
+<!-- DOCUMENT ROOT -->
+<!-- Windows style -->
+<context documentRoot="/Users/nataliepeters/CMPT352/HW/HW4/site/"></context>
+
+<!-- LOG FILE -->
+<!-- macOS / Linux style -->
+<logfile log="/Users/nataliepeters/CMPT352/HW/HW4/logs/log.txt"></logfile> 
+
+<!-- 404 FILE -->
+<!-- macOS / Linux style -->
+<context fourohfour = "/Users/nataliepeters/CMPT352/HW/HW4/site/404.html"></context> 
+
+</webserver>
